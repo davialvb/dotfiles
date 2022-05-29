@@ -1,0 +1,8 @@
+ .bash_history   .fehbg          .shell.pre-oh-my-zsh   .xsession-errors             .zsh_history
+ .bash_logout    .fzf.bash       .viminfo               .xsession-errors.old         .zshrc
+ .bash_profile   .fzf.zsh        .vimrc                 .z                           .zshrc.pre-oh-my-zsh
+ .bashrc         .gitconfig      .Xauthority            .zcompdump
+ .dir_colors     .gtkrc-2.0      .Xclients              .zcompdump-daviavlb-pc-5.9
+ .dmenurc        .makepkg.conf   .xinitrc               .zhistory
+ .dmrc           .profile        .Xresources            .zshenv
+
