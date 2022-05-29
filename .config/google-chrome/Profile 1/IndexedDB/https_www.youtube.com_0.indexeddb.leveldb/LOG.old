@@ -1,0 +1,12 @@
+2022/05/29-09:32:51.202 1017 Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/29-09:32:51.202 1017 Recovering log #15
+2022/05/29-09:32:51.222 1017 Reusing old log /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2022/05/29-09:55:01.157 1e16 Level-0 table #20: started
+2022/05/29-09:55:01.179 1e16 Level-0 table #20: 1333870 bytes OK
+2022/05/29-09:55:01.185 1e16 Delete type=0 #15
+2022/05/29-09:59:01.151 1e16 Compacting 1@1 + 1@2 files
+2022/05/29-09:59:01.167 1e16 Generated table #21@1: 483 keys, 30669 bytes
+2022/05/29-09:59:01.167 1e16 Compacted 1@1 + 1@2 files => 30669 bytes
+2022/05/29-09:59:01.172 1e16 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/29-09:59:01.172 1e16 Delete type=2 #20
+2022/05/29-09:59:01.172 1e16 Delete type=2 #17

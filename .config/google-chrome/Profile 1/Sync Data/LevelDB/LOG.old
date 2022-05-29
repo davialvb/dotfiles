@@ -1,0 +1,18 @@
+2022/05/29-09:32:34.510 ef5 Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2022/05/29-09:32:34.510 ef5 Recovering log #42
+2022/05/29-09:32:34.511 ef5 Reusing old log /home/davialvb/.config/google-chrome/Profile 1/Sync Data/LevelDB/000042.log 
+2022/05/29-09:34:43.547 173d Level-0 table #46: started
+2022/05/29-09:34:43.555 173d Level-0 table #46: 98928 bytes OK
+2022/05/29-09:34:43.560 173d Delete type=0 #42
+2022/05/29-10:23:28.111 264a Level-0 table #48: started
+2022/05/29-10:23:28.118 264a Level-0 table #48: 100645 bytes OK
+2022/05/29-10:23:28.123 264a Delete type=0 #45
+2022/05/29-10:23:28.124 264a Compacting 4@0 + 1@1 files
+2022/05/29-10:23:28.136 264a Generated table #49@0: 167 keys, 34387 bytes
+2022/05/29-10:23:28.136 264a Compacted 4@0 + 1@1 files => 34387 bytes
+2022/05/29-10:23:28.140 264a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/29-10:23:28.141 264a Delete type=2 #40
+2022/05/29-10:23:28.141 264a Delete type=2 #37
+2022/05/29-10:23:28.141 264a Delete type=2 #46
+2022/05/29-10:23:28.141 264a Delete type=2 #43
+2022/05/29-10:23:28.141 264a Delete type=2 #48

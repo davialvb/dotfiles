@@ -1,0 +1,47 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "img/ZH-19.png",
+         "38": "img/ZH-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "ZenHub"
+   },
+   "author": "Axiom Zen",
+   "background": {
+      "service_worker": "js/worker.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/extension-main.css", "js/built/main.css", "js/built/vendor.css" ],
+      "exclude_matches": [ "https://github.com/pages/*" ],
+      "matches": [ "https://github.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "exclude_matches": [ "https://github.com/pages/*" ],
+      "js": [ "js/utils/ChromeAPI.js", "js/built/vendor.js", "js/built/config.js", "js/built/main.js" ],
+      "matches": [ "https://github.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "ZenHub – Project Management Inside GitHub",
+   "host_permissions": [ "*://api.zenhub.com/*", "*://github.com/*", "*://api.github.com/*" ],
+   "icons": {
+      "128": "img/ZH-128.png",
+      "16": "img/ZH-16.png",
+      "48": "img/ZH-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClC4r8p4y21n5W8JlKwmBjycwWNgVg4iJjJOaP6n6UCXCIPbAfRiMnNIRZAl3u2ZAk0noXhEL/quOXHwQpHsKeGyLI4o9vebmBS2sGIXn037USVh63tfsGL9f74BniyBFwCjFwp4ZO+PvjjGuskZpksY7UYbsT/IM/NgbwJZRsDwIDAQAB",
+   "manifest_version": 3,
+   "name": "ZenHub for GitHub",
+   "permissions": [ "storage" ],
+   "short_name": "ZenHub",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.3.68",
+   "web_accessible_resources": [ {
+      "extension_ids": [ "ogcgkffhplmphkaahpmffcafajaocjbd" ],
+      "matches": [ "https://github.com/*" ],
+      "resources": [ "js/*", "templates/*", "img/**/*", "font/*" ]
+   } ]
+}

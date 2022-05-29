@@ -1,0 +1,24 @@
+2022/05/29-12:35:24.634 71d Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2022/05/29-12:35:24.634 71d Recovering log #299
+2022/05/29-12:35:24.655 71d Reusing old log /home/davialvb/.config/google-chrome/Profile 1/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000299.log 
+2022/05/29-12:39:42.722 72e Level-0 table #304: started
+2022/05/29-12:39:42.741 72e Level-0 table #304: 1625589 bytes OK
+2022/05/29-12:39:42.746 72e Delete type=0 #299
+2022/05/29-12:39:52.874 72e Level-0 table #306: started
+2022/05/29-12:39:52.891 72e Level-0 table #306: 1625618 bytes OK
+2022/05/29-12:39:52.896 72e Delete type=0 #303
+2022/05/29-12:39:59.734 f3d Level-0 table #308: started
+2022/05/29-12:39:59.754 f3d Level-0 table #308: 1625639 bytes OK
+2022/05/29-12:39:59.758 f3d Delete type=0 #305
+2022/05/29-12:43:54.716 1252 Level-0 table #310: started
+2022/05/29-12:43:54.734 1252 Level-0 table #310: 1625642 bytes OK
+2022/05/29-12:43:54.739 1252 Delete type=0 #307
+2022/05/29-12:43:54.739 1252 Compacting 4@0 + 1@1 files
+2022/05/29-12:43:54.758 1252 Generated table #311@0: 3 keys, 394008 bytes
+2022/05/29-12:43:54.758 1252 Compacted 4@0 + 1@1 files => 394008 bytes
+2022/05/29-12:43:54.763 1252 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/29-12:43:54.763 1252 Delete type=2 #308
+2022/05/29-12:43:54.763 1252 Delete type=2 #306
+2022/05/29-12:43:54.763 1252 Delete type=2 #304
+2022/05/29-12:43:54.763 1252 Delete type=2 #301
+2022/05/29-12:43:54.763 1252 Delete type=2 #310

@@ -1,0 +1,6 @@
+2022/05/28-16:55:39.703 20a1 Creating DB /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_icomoon.io_0.indexeddb.leveldb since it was missing.
+2022/05/28-16:55:39.713 20a1 Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_icomoon.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/28-16:55:50.676 c78 Level-0 table #5: started
+2022/05/28-16:55:50.680 c78 Level-0 table #5: 1968 bytes OK
+2022/05/28-16:55:50.685 c78 Delete type=0 #3
+2022/05/28-16:55:50.685 c78 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

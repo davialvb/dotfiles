@@ -1,0 +1,6 @@
+2022/05/29-12:35:23.771 6f7 Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2022/05/29-12:35:23.779 6f7 Recovering log #47
+2022/05/29-12:35:23.786 6f7 Reusing old log /home/davialvb/.config/google-chrome/Profile 1/Sync Data/LevelDB/000047.log 
+2022/05/29-12:39:36.760 71d Level-0 table #52: started
+2022/05/29-12:39:36.765 71d Level-0 table #52: 89103 bytes OK
+2022/05/29-12:39:36.770 71d Delete type=0 #47

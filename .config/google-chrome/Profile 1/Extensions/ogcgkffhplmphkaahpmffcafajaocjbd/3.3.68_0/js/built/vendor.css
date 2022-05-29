@@ -1,0 +1,464 @@
+/*!
+  Theme: GitHub Dark
+  Description: Dark theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-dark
+  Current colors taken from GitHub's CSS
+*/
+
+/* stylelint-disable selector-max-combinators, color-no-hex */
+
+[data-theme="night"] .hljs {
+  color: #C9D1D9;
+}
+
+[data-theme="night"] .hljs-doctag,
+[data-theme="night"] .hljs-keyword,
+[data-theme="night"] .hljs-meta .w3GoLH2ORRz6rs3CK1Og,
+[data-theme="night"] .hljs-template-tag,
+[data-theme="night"] .hljs-template-variable,
+[data-theme="night"] .hljs-type,
+[data-theme="night"] .hljs-variable.language_ {
+
+  /* prettylights-syntax-keyword */
+  color: #FF7B72;
+}
+
+[data-theme="night"] .hljs-title,
+[data-theme="night"] .hljs-title.class_,
+[data-theme="night"] .hljs-title.class_.inherited__,
+[data-theme="night"] .hljs-title.function_ {
+
+  /* prettylights-syntax-entity */
+  color: #D2A8FF;
+}
+
+[data-theme="night"] .hljs-attr,
+[data-theme="night"] .hljs-attribute,
+[data-theme="night"] .hljs-literal,
+[data-theme="night"] .hljs-meta,
+[data-theme="night"] .hljs-number,
+[data-theme="night"] .hljs-operator,
+[data-theme="night"] .hljs-variable,
+[data-theme="night"] .hljs-selector-attr,
+[data-theme="night"] .hljs-selector-class,
+[data-theme="night"] .hljs-selector-id {
+
+  /* prettylights-syntax-constant */
+  color: #79C0FF;
+}
+
+[data-theme="night"] .hljs-regexp,
+[data-theme="night"] .hljs-string .cxPxlRkhHBavi2eoGDsx,
+[data-theme="night"] .hljs-string {
+
+  /* prettylights-syntax-string */
+  color: #A5D6FF;
+}
+
+[data-theme="night"] .hljs-built_in,
+[data-theme="night"] .hljs-symbol {
+
+  /* prettylights-syntax-variable */
+  color: #FFA657;
+}
+
+[data-theme="night"] .hljs-comment,
+[data-theme="night"] .hljs-code,
+[data-theme="night"] .hljs-formula {
+
+  /* prettylights-syntax-comment */
+  color: #8B949E;
+}
+
+[data-theme="night"] .hljs-name,
+[data-theme="night"] .hljs-quote,
+[data-theme="night"] .hljs-selector-tag,
+[data-theme="night"] .hljs-selector-pseudo {
+
+  /* prettylights-syntax-entity-tag */
+  color: #7EE787;
+}
+
+[data-theme="night"] .hljs-subst {
+
+  /* prettylights-syntax-storage-modifier-import */
+  color: #C9D1D9;
+}
+
+[data-theme="night"] .hljs-section {
+
+  /* prettylights-syntax-markup-heading */
+  color: #1F6FEB;
+  font-weight: bold;
+}
+
+[data-theme="night"] .hljs-bullet {
+
+  /* prettylights-syntax-markup-list */
+  color: #F2CC60;
+}
+
+[data-theme="night"] .hljs-emphasis {
+
+  /* prettylights-syntax-markup-italic */
+  color: #C9D1D9;
+  font-style: italic;
+}
+
+[data-theme="night"] .hljs-strong {
+
+  /* prettylights-syntax-markup-bold */
+  color: #C9D1D9;
+  font-weight: bold;
+}
+
+[data-theme="night"] .hljs-addition {
+  background-color: #033A16;
+
+  /* prettylights-syntax-markup-inserted */
+  color: #AFF5B4;
+}
+
+[data-theme="night"] .hljs-deletion {
+  background-color: #67060C;
+
+  /* prettylights-syntax-markup-deleted */
+  color: #FFDCD7;
+}
+
+/* stylelint-enable selector-max-combinators, color-no-hex */
+
+/*!
+  Theme: GitHub
+  Description: Light theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-light
+  Current colors taken from GitHub's CSS
+*/
+
+/* stylelint-disable selector-max-combinators, color-no-hex */
+
+[data-theme="day"] .hljs {
+  color: #24292E;
+}
+
+[data-theme="day"] .hljs-doctag,
+[data-theme="day"] .hljs-keyword,
+[data-theme="day"] .hljs-meta .ThmGMWhUdQPeuyz2S5DR,
+[data-theme="day"] .hljs-template-tag,
+[data-theme="day"] .hljs-template-variable,
+[data-theme="day"] .hljs-type,
+[data-theme="day"] .hljs-variable.language_ {
+
+  /* prettylights-syntax-keyword */
+  color: #D73A49;
+}
+
+[data-theme="day"] .hljs-title,
+[data-theme="day"] .hljs-title.class_,
+[data-theme="day"] .hljs-title.class_.inherited__,
+[data-theme="day"] .hljs-title.function_ {
+
+  /* prettylights-syntax-entity */
+  color: #6F42C1;
+}
+
+[data-theme="day"] .hljs-attr,
+[data-theme="day"] .hljs-attribute,
+[data-theme="day"] .hljs-literal,
+[data-theme="day"] .hljs-meta,
+[data-theme="day"] .hljs-number,
+[data-theme="day"] .hljs-operator,
+[data-theme="day"] .hljs-variable,
+[data-theme="day"] .hljs-selector-attr,
+[data-theme="day"] .hljs-selector-class,
+[data-theme="day"] .hljs-selector-id {
+
+  /* prettylights-syntax-constant */
+  color: #005CC5;
+}
+
+[data-theme="day"] .hljs-regexp,
+[data-theme="day"] .hljs-string,
+[data-theme="day"] .hljs-meta .Lpn5q56kQlmpUJTGF5Mn {
+
+  /* prettylights-syntax-string */
+  color: #032F62;
+}
+
+[data-theme="day"] .hljs-built_in,
+[data-theme="day"] .hljs-symbol {
+
+  /* prettylights-syntax-variable */
+  color: #E36209;
+}
+
+[data-theme="day"] .hljs-comment,
+[data-theme="day"] .hljs-code,
+[data-theme="day"] .hljs-formula {
+
+  /* prettylights-syntax-comment */
+  color: #6A737D;
+}
+
+[data-theme="day"] .hljs-name,
+[data-theme="day"] .hljs-quote,
+[data-theme="day"] .hljs-selector-tag,
+[data-theme="day"] .hljs-selector-pseudo {
+
+  /* prettylights-syntax-entity-tag */
+  color: #22863A;
+}
+
+[data-theme="day"] .hljs-subst {
+
+  /* prettylights-syntax-storage-modifier-import */
+  color: #24292E;
+}
+
+[data-theme="day"] .hljs-section {
+
+  /* prettylights-syntax-markup-heading */
+  color: #005CC5;
+  font-weight: bold;
+}
+
+[data-theme="day"] .hljs-bullet {
+
+  /* prettylights-syntax-markup-list */
+  color: #735C0F;
+}
+
+[data-theme="day"] .hljs-emphasis {
+
+  /* prettylights-syntax-markup-italic */
+  color: #24292E;
+  font-style: italic;
+}
+
+[data-theme="day"] .hljs-strong {
+
+  /* prettylights-syntax-markup-bold */
+  color: #24292E;
+  font-weight: bold;
+}
+
+[data-theme="day"] .hljs-addition {
+  background-color: #F0FFF4;
+
+  /* prettylights-syntax-markup-inserted */
+  color: #22863A;
+}
+
+[data-theme="day"] .hljs-deletion {
+  background-color: #FFEEF0;
+
+  /* prettylights-syntax-markup-deleted */
+  color: #B31D28;
+}
+
+/* stylelint-enable selector-max-combinators, color-no-hex */
+
+/* stylelint-disable selector-max-combinators, selector-max-type */
+
+.f4SCOPEz29ymWKvvzx6M {
+  color: var(--zh-theme-color-text-primary);
+  font-size: var(--zh-font-size-base);
+  line-height: 1.5;
+}
+
+.f4SCOPEz29ymWKvvzx6M blockquote {
+  border-left: 4px solid var(--zh-theme-color-border);
+  color: var(--zh-theme-color-text-tertiary);
+  margin: 0;
+  margin-bottom: 16px;
+  padding-left: 15px;
+}
+
+.f4SCOPEz29ymWKvvzx6M blockquote:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M code,
+.f4SCOPEz29ymWKvvzx6M tt {
+  background-color: var(--zh-theme-color-bg-20);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+.f4SCOPEz29ymWKvvzx6M h1,
+.f4SCOPEz29ymWKvvzx6M h2 {
+  border-bottom: 1px solid var(--zh-theme-color-border);
+}
+
+.f4SCOPEz29ymWKvvzx6M h1,
+.f4SCOPEz29ymWKvvzx6M h2,
+.f4SCOPEz29ymWKvvzx6M h3,
+.f4SCOPEz29ymWKvvzx6M h4,
+.f4SCOPEz29ymWKvvzx6M h5,
+.f4SCOPEz29ymWKvvzx6M h6 {
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+.f4SCOPEz29ymWKvvzx6M hr {
+  background-color: var(--zh-theme-color-border);
+  border: none;
+  height: 4px;
+  margin: 24px 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M hr:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M p {
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M p:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M pre {
+  background-color: var(--zh-theme-color-bg-20);
+  margin: 0 0 16px;
+  overflow: auto;
+  padding: 8px 16px;
+  word-break: normal; /* Needed for Safari to be consistent with Chrome */
+}
+
+.f4SCOPEz29ymWKvvzx6M pre:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M pre code {
+  background-color: transparent;
+  font-size: var(--zh-font-size-xsmall);
+}
+
+.f4SCOPEz29ymWKvvzx6M table {
+  border-collapse: collapse;
+  margin-bottom: 16px;
+}
+
+.f4SCOPEz29ymWKvvzx6M table:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M td,
+.f4SCOPEz29ymWKvvzx6M th,
+.f4SCOPEz29ymWKvvzx6M tr {
+  border: solid 1px var(--zh-theme-color-border);
+  padding: 6px 13px;
+}
+
+.f4SCOPEz29ymWKvvzx6M th {
+  font-weight: var(--zh-font-weight-extra-bold);
+}
+
+.f4SCOPEz29ymWKvvzx6M tr {
+  background-color: var(--zh-theme-color-bg-light);
+}
+
+.f4SCOPEz29ymWKvvzx6M tr:nth-child(2n) {
+  background-color: var(--zh-theme-color-bg-primary);
+}
+
+.f4SCOPEz29ymWKvvzx6M ol,
+.f4SCOPEz29ymWKvvzx6M ul {
+  margin-bottom: 16px;
+  padding-inline-start: 16px;
+}
+
+.f4SCOPEz29ymWKvvzx6M ol:last-child,
+.f4SCOPEz29ymWKvvzx6M ul:last-child {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M ul ul {
+  margin-bottom: 0;
+}
+
+.f4SCOPEz29ymWKvvzx6M .octicon-video {
+  border: 1px solid var(--zh-theme-color-border);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  color: var(--zh-theme-color-text-primary);
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+.f4SCOPEz29ymWKvvzx6M .octicon-video summary {
+  padding: 8px 16px;
+}
+
+.f4SCOPEz29ymWKvvzx6M .octicon-device-camera-video {
+  margin: 0 8px;
+  vertical-align: text-top;
+}
+
+.f4SCOPEz29ymWKvvzx6M .octicon-video span {
+  word-break: break-all;
+}
+
+.f4SCOPEz29ymWKvvzx6M .octicon-video video {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  margin-bottom: -5px;
+  width: 100%;
+}
+
+.f4SCOPEz29ymWKvvzx6M .task-list-item {
+  list-style: none;
+  margin-left: -20px;
+}
+
+.f4SCOPEz29ymWKvvzx6M .task-list-item ul {
+  margin-left: 20px;
+}
+
+.XdlD3JTLTIpaFYwF8VPj {
+  box-sizing: content-box;
+  margin-bottom: 16px;
+  max-width: 100%;
+}
+
+.XdlD3JTLTIpaFYwF8VPj:last-child {
+  margin-bottom: 0;
+}
+
+.ZgGerIBUUWLNniNDhxnd {
+  height: 20px;
+  margin-bottom: 0;
+  vertical-align: text-top;
+  width: 20px;
+}
+
+.y6UmUxHHuKAwWSPIxZcc {
+  margin: 0 3px;
+  vertical-align: -1px;
+}
+
+.y6UmUxHHuKAwWSPIxZcc:not(:disabled) {
+  cursor: pointer;
+}
+
+.p7uSE79MnACAhTKGluPE {
+  color: var(--zh-theme-color-text-brand);
+  text-decoration: none;
+}
+
+.WEZzsDKxB5avJD0U6_HA {
+  color: var(--zh-theme-color-text-primary);
+  font-weight: var(--zh-font-weight-bold);
+}
+
