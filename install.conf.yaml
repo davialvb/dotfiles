@@ -1,6 +1,9 @@
 - clean: ['~']
 
 - link:
+    ~/.config/polybar:
+      create: true
+      path: config/polybar
     ~/.profile: profile
     ~/.bash_profile: bash_profile
     ~/.bashrc: bashrc
