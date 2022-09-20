@@ -1,6 +1,0 @@
-2022/05/28-19:46:06.671 421b Creating DB /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
-2022/05/28-19:46:06.681 421b Reusing MANIFEST /home/davialvb/.config/google-chrome/Profile 1/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/28-19:50:38.725 4454 Level-0 table #5: started
-2022/05/28-19:50:38.729 4454 Level-0 table #5: 5856 bytes OK
-2022/05/28-19:50:38.734 4454 Delete type=0 #3
-2022/05/28-19:50:38.734 4454 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
